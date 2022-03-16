@@ -1,0 +1,58 @@
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\de tafeltester.exe
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\de tafeltester.deps.json
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\de tafeltester.runtimeconfig.json
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\de tafeltester.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\de tafeltester.pdb
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.csproj.AssemblyReference.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester_MarkupCompile.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester_MarkupCompile.lref
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.g.resources
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.AssemblyInfoInputs.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.AssemblyInfo.cs
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.csproj.CoreCompileInputs.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\refint\de tafeltester.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.pdb
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.genruntimeconfig.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de_tafeltester\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\ref\de tafeltester.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\de tafeltester.exe
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\de tafeltester.deps.json
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\de tafeltester.runtimeconfig.json
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\de tafeltester.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\de tafeltester.pdb
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.csproj.AssemblyReference.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester_MarkupCompile.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester_MarkupCompile.lref
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.g.resources
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.AssemblyInfoInputs.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.AssemblyInfo.cs
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.csproj.CoreCompileInputs.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\refint\de tafeltester.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.pdb
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester.genruntimeconfig.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\ref\de tafeltester.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\obj\Debug\net6.0-windows\de tafeltester_Content.g.cs
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\3_1.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\3_2.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\3_3.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\3_4.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\3_5.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\2_1.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\2_2.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\2_3.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\2_4.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\2_5.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\2_6.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\2_7.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\images\2_8.jpg
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\sounds\correct.wav
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl7\de tafeltester (new)\de tafeltester\de tafeltester\bin\Debug\net6.0-windows\sounds\incorrect.wav
